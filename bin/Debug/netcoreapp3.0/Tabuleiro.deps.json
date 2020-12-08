@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Tabuleiro/1.0.0": {
+        "runtime": {
+          "Tabuleiro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tabuleiro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

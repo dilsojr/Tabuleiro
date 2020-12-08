@@ -1,0 +1,13 @@
+C:\Exercicios\Tabuleiro\Tabuleiro\bin\Debug\netcoreapp3.0\Tabuleiro.exe
+C:\Exercicios\Tabuleiro\Tabuleiro\bin\Debug\netcoreapp3.0\Tabuleiro.deps.json
+C:\Exercicios\Tabuleiro\Tabuleiro\bin\Debug\netcoreapp3.0\Tabuleiro.runtimeconfig.json
+C:\Exercicios\Tabuleiro\Tabuleiro\bin\Debug\netcoreapp3.0\Tabuleiro.runtimeconfig.dev.json
+C:\Exercicios\Tabuleiro\Tabuleiro\bin\Debug\netcoreapp3.0\Tabuleiro.dll
+C:\Exercicios\Tabuleiro\Tabuleiro\bin\Debug\netcoreapp3.0\Tabuleiro.pdb
+C:\Exercicios\Tabuleiro\Tabuleiro\obj\Debug\netcoreapp3.0\Tabuleiro.csprojAssemblyReference.cache
+C:\Exercicios\Tabuleiro\Tabuleiro\obj\Debug\netcoreapp3.0\Tabuleiro.AssemblyInfoInputs.cache
+C:\Exercicios\Tabuleiro\Tabuleiro\obj\Debug\netcoreapp3.0\Tabuleiro.AssemblyInfo.cs
+C:\Exercicios\Tabuleiro\Tabuleiro\obj\Debug\netcoreapp3.0\Tabuleiro.dll
+C:\Exercicios\Tabuleiro\Tabuleiro\obj\Debug\netcoreapp3.0\Tabuleiro.pdb
+C:\Exercicios\Tabuleiro\Tabuleiro\obj\Debug\netcoreapp3.0\Tabuleiro.csproj.CoreCompileInputs.cache
+C:\Exercicios\Tabuleiro\Tabuleiro\obj\Debug\netcoreapp3.0\Tabuleiro.genruntimeconfig.cache
